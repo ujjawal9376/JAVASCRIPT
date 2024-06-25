@@ -1,2 +1,2 @@
 # PW-JS-
-A code repo for pw javascript. 
+A code repo for  javascript. 
