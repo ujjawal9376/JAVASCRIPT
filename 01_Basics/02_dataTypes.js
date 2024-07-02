@@ -10,8 +10,12 @@
 // console.log(10+10);
 // console.log("Ujjawal Sharma");
 
+let age = 18;
+let isLoggedIn = false;
+let state = null;
 
-// DATATYPES
+
+// Primitive DATATYPES
 // number => 2 to power 53
 // bigint
 // string => ""
@@ -20,8 +24,11 @@
 // undefined =>
 // symbol => unique
 
-
+// Non-Primitive DATATYPES
 // object
 
-console.log(typeof undefined); // undefined
+
+/* undefined  [Typeof in JavaScript is an operator used for type checking and returns the data type of 
+    the operand passed to it. The operand can be any variable, function, or object whose type you want to find out using the typeof operator.]*/
+console.log(typeof undefined); // undefined  
 console.log(typeof null); // object
