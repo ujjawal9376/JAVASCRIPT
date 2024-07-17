@@ -58,3 +58,10 @@ let myfunction = function () {
 };
 
 console.log(typeof myfunction); // function
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+  // Stack And Heap Memory
+  // Stack (primitive) , Heap (Non-Primitive) 
+
